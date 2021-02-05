@@ -34,13 +34,13 @@ var APP_DATA = {
           "yaw": 0,
           "pitch": 0,
           "title": "Construction 1",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1H_xN7zLv0ugzQoVhfbmnwdMzzg_INbjM/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -0.6280482071685327,
           "pitch": 0.2328794047601086,
           "title": "Construction Intro",
-          "text": "Text"
+          "text": '<iframe src="https://drive.google.com/file/d/1HYdTG6AJAHt98ffXRPYERYcilR6JGsdH/preview" width="640" height="480"></iframe>'
         }
       ]
     }
